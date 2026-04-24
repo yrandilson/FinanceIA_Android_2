@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinanceIA</string>
+    <string name="dashboard">Início</string>
+    <string name="transactions">Transações</string>
+    <string name="goals">Metas</string>
+    <string name="ai_chat">IA</string>
+</resources>

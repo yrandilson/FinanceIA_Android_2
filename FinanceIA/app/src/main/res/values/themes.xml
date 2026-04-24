@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.FinanceIA" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.FinanceIA.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#0F172A</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.FinanceIA</item>
+    </style>
+</resources>
